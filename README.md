@@ -217,8 +217,5 @@ Simular um cenário real de IoT e explorar observabilidade ponta a ponta com:
 * Alertas automáticos
 * Simulação de falhas (chaos engineering)
 
----
-
-## 📜 Licença
-
-MIT
+* ## Dashboard
+* <img width="1346" height="603" alt="image" src="https://github.com/user-attachments/assets/ba38593c-02bf-4e83-af27-a6c85a49b453" />
