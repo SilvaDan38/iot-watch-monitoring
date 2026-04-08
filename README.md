@@ -1,5 +1,10 @@
 # 📦 Lab de Simulação IoT com MQTT e Datadog
 
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue?logo=docker\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)
+![Datadog](https://img.shields.io/badge/Observability-Datadog-purple?logo=datadog\&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-IoT-orange?logo=apache\&logoColor=white)
+
 Laboratório Docker para simulação de telemetria de dispositivos IoT (wearables) utilizando MQTT e observabilidade com Datadog.
 
 ---
